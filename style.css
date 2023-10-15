@@ -1,0 +1,20 @@
+.txt{
+    color:whitesmoke;
+    text-align: center;
+    font-size: calc( (100vw - 480px)/(1280 - 480) * (24 - 16) + 16px);
+}
+body{
+    background-image: url("https://images.techinsider.ru/upload/img_cache/028/028272720043b07b91b0a7a1f77361a5_ce_1000x664x0x0_cropped_1332x888.jpg");
+    background-size: cover;
+}
+h1{
+    color:wheat;
+    text-align: center;
+}
+a{
+    size: 10px;
+    text-align: center;
+    color:maroon ;
+    font-size: calc( (100vw - 480px)/(1280 - 480) * (24 - 16) + 16px);
+    display: block;
+}
